@@ -3,6 +3,7 @@ GS3::Application.routes.draw do
   get "about" => "pages#about"
   get "price" => "pages#price"
   get "interest" => "pages#interest"
+  get "faq" => "pages#faq"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

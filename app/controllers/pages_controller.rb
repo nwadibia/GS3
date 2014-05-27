@@ -11,4 +11,8 @@ class PagesController < ApplicationController
 
   def interest
   end
+
+def faq
+  end
+
 end
