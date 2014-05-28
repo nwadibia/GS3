@@ -12,7 +12,7 @@ class PagesController < ApplicationController
   def interest
   end
 
-def faq
+  def faq
   end
 
 end
